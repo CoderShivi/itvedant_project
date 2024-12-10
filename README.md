@@ -8,6 +8,6 @@
 
 **This is bold**
 
-[asdfasd](https://www.google.com)
+[Click here to go to the live website](https://codershivi.github.io/itvedant_project/)
 
 ![image](Images/products/beauty.jpg)
